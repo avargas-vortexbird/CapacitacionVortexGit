@@ -1,5 +1,5 @@
-Andres Felipe Vargas 2
-Andres Felipe Vargas 3
-Conflictos , porque entiendo mas de maternidad de gallinas que de git
+Andres Felipe Vargas 2 OTRO CONFLICTO
+Andres Felipe Vargas 3 EPSILON
+Conflictos , porque entiendo mas de maternidad de gallinas que de git CONFLICTOOOO
 
 Conflicto
